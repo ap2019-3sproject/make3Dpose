@@ -12,4 +12,10 @@ https://github.com/ildoonet/tf-pose-estimation
 #
 
 ### DEMO
+settings.pyにて、パラメータを編集して、実行することで
+```bash
+$ python make_3d_pose.py
+```
+骨格情報をまとめたテキストファイルが生成されます。
+
 https://qiita.com/shiooon/items/535f588bea7748e156f2
